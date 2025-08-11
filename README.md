@@ -1,32 +1,81 @@
+<!-- top design -->
 <div align="center">
-  <!-- アニメーションセンターヘッダー -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1500&color=29ABE2&lines=Hi+there!+I'm+YourName;Loves+Coding+%F0%9F%92%BB;Always+Learning" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
+</div>
+
+<!-- animation intoroduce -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script+Code&size=32&duration=2500&pause=1500&color=333333&center=true&lines=k0ya-yama4ta;Always+Learning" alt="Typing SVG" />
 </div>
 
 ## About Me
-<div align="center">
-- **Location:** Japan  
-- **Focus:** Web & Mobile Development  
-- **Passion:** Open‑source & Automation  
-</div>
+<!-- todo/self-pr -->
+
+### Certification
+<table>
+<tr>
+<td>
+  
+**IPA**
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://unofficial-ipa-exam-badges.vercel.app/ja/icon/fe/2021/January" width="96" height="96"/>
+<img src="https://unofficial-ipa-exam-badges.vercel.app/ja/icon/ap/2021/Spring" width="96" height="96"/>
+<img src="https://unofficial-ipa-exam-badges.vercel.app/ja/icon/nw/2023/Spring" width="96" height="96"/>
+<img src="https://unofficial-ipa-exam-badges.vercel.app/ja/icon/db/2023/Autumn" width="96" height="96"/>
+</td>
+</tr>
+</table>
+
 
 ## Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,flutter" />
-</div>
 
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=dark&border_radius=10" alt="streak stats"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUserName&theme=dark&area=true" alt="activity graph"/>
-</div>
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+  
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=js&size=48" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=ts&size=48" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=php&size=48" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=react&size=48" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=html&size=48" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=css&size=48" width="48" height="48" />
 
-## GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUserName&theme=onedark&column=5" alt="trophies"/>
-</div>
+### Frameworks & Library
+<img src="https://skillicons.dev/icons?i=react&size=48" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=vite&size=48" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=nodejs&size=48" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=laravel&size=48" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=express&size=48" width="48" height="48" />
 
-## Quote of the Day
+### Infra(Cloud)
+<img src="https://skillicons.dev/icons?i=aws&size=48" width="48" height="48" />
+
+</td>
+<td width="50%" align="center" valign="top">
+  
+### Database
+<img src="https://skillicons.dev/icons?i=mysql&size=48" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=postgresql&size=48" width="48" height="48" />
+
+### Devtools
+<img src="https://skillicons.dev/icons?i=vscode&size=48" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=git&size=48" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=github&size=48" width="48" height="48" />
+
+### etc
+<img src="https://skillicons.dev/icons?i=docker&size=48" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=linux&size=48" width="48" height="48" />
+
+</td>
+</tr>
+</table>
+
+<!-- bottom design -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random dev quote"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
 </div>
