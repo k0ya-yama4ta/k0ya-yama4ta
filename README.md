@@ -27,7 +27,6 @@
 <img src="https://skillicons.dev/icons?i=js&size=48" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=ts&size=48" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=php&size=48" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=react&size=48" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=html&size=48" width="48" height="48" />
 <img src="https://skillicons.dev/icons?i=css&size=48" width="48" height="48" />
 </div>
